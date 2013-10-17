@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/htc/msm8960-common" name="jmztaylor/android_device_htc_msm8960-common" revision="jellybean" />
+<project path="device/htc/k2_ul" name="vl197602/k2_ul" revision="master" />
+<project path="vendor/htc/vendor_onesv" name="vl197602/vendor_onesv" revision="master" />
+</manifest>
+ 
